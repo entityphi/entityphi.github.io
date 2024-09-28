@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entityphi.github.io/sitemap.html.gz
+Sitemap: https://entityphi.github.io/app/sitemap.html.gz
+Sitemap: https://entityphi.github.io/assets/sitemap.html.gz
+Sitemap: https://entityphi.github.io/css/sitemap.html.gz
+Sitemap: https://entityphi.github.io/data/sitemap.html.gz
+Sitemap: https://entityphi.github.io/includes/sitemap.html.gz
+Sitemap: https://entityphi.github.io/item/sitemap.html.gz
+Sitemap: https://entityphi.github.io/src/sitemap.html.gz
